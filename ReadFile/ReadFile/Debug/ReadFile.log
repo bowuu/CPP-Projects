@@ -1,0 +1,2 @@
+﻿  main.cpp
+c:\users\bo\dropbox\school\spring 2016\cop 3331 object oriented design\projects\readfile\readfile\main.cpp(21): error C3867: 'std::ios_base::good': non-standard syntax; use '&' to create a pointer to member

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<USA>
+	<state>
+		<name>
+			Florida
+		</name>
+		<capital>
+			Tallahassee
+		</capital>
+		<city>
+			Clearwater
+		</city>
+		<city>
+			Miami
+		</city>
+		<city>
+			Tampa
+		</city>
+	</state>
+	<state>
+		<name>
+			California
+		</name>
+		<capital>
+			Sacramento
+		</capital>
+		<city>
+			Los Angles
+		</city>
+		<city>
+			San Francisco
+		</city>
+	</state>
+	<state>
+		<name>
+			New York
+		</name>
+		<capital>
+			Albany
+		</capital>
+		<city>
+			Buffalo
+		</city>
+		<city>
+			New York City
+		</city>
+	</state>
+	<state>
+		<name>
+			Texas
+		</name>
+		<capital>
+			Austin
+		</capital>
+		<city>
+			Dallas
+		</city>
+	</state>
+</USA>

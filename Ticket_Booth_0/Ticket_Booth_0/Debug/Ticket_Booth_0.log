@@ -1,0 +1,12 @@
+﻿  Venue_from_Xml.cpp
+  Venue.cpp
+  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  Seat_Row.cpp
+  Seat.cpp
+  main.cpp
+  Address.cpp
+  Generating Code...
+Address.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  Ticket_Booth_0.vcxproj -> C:\Users\Rollins\Desktop\Ticket_Booth_0\Debug\Ticket_Booth_0.exe

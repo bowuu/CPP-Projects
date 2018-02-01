@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<USA>
+    <State>
+        <Name>
+            Florida
+        </Name>
+        <Capital>
+            Tallahassee
+        </Capital>
+        <City>
+            Tampa
+        </City>
+        <City>
+            Miami
+        </City>
+    </State>
+    <State>
+        <Name>
+            California
+        </Name>
+        <Capital>
+            Sacramento
+        </Capital>
+        <City>
+            San Francisco
+        </City>
+        <City>
+            Los Angles
+        </City>
+
+    </State>
+
+    <State>
+        <Name>
+            New York
+        </Name>
+        <Capital>
+            Albany
+        </Capital>
+        <City>
+            New York City
+        </City>
+        <City>
+            Buffalo
+        </City>
+    </State>
+</USA>
